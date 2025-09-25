@@ -44,7 +44,7 @@ CGPA: 8.4 | Kurnool, India
 ## 🌟 Projects
 
 ### 🩺 [DocSpot](https://github.com/saniashaik11/docspot) – Seamless Appointment Booking for Health
-*A full-stack web application developed during a SmartBridge program*  
+*A full-stack web application developed  
 - Enabled users to book appointments and upload medical reports  
 - Created responsive and interactive dashboards using React
 
