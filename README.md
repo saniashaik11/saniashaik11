@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌍 From Kurnool, India
+- 🌍 From Andhra Pradesh, India
 - 💻 Passionate about Web Development, Cloud Computing & Satellite Systems
 - 🌱 Currently deep-diving into control systems and orbital dynamics via my internship at IIST
 - ✨ Always exploring new technologies and looking for opportunities to grow
